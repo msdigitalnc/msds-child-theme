@@ -1,1 +1,43 @@
-/* Using existing style.css provided by user */
+/*
+ Theme Name:   MSDS Divi Child Theme
+ Theme URI:    https://msdigitalsolutions.com
+ Description:  A lightweight Divi child theme by MS Digital Solutions, optimized for structure, performance, and scalability.
+ Author:       MS Digital Solutions
+ Author URI:   https://msdigitalsolutions.com
+ Template:     Divi
+ Version:      1.1.1
+ License:      GPLv2 or later
+ License URI:  https://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  msds-divi-child
+*/
+
+/* =Theme customization starts here
+------------------------------------------------------- */
+
+
+/* Responsive Breakpoints */
+
+/*** Responsive Styles Large Desktop And Above ***/
+@media all and (min-width: 1405px) {
+
+}
+/*** Responsive Styles Standard Desktop Only ***/
+@media all and (min-width: 1100px) and (max-width: 1405px) {
+
+}
+/*** Responsive Styles Tablet And Below ***/
+@media all and (max-width: 980px) {
+
+}
+/*** Responsive Styles Tablet Only ***/
+@media all and (min-width: 768px) and (max-width: 980px) {
+
+}
+/*** Responsive Styles Smartphone Only ***/
+@media all and (max-width: 767px) {
+
+}
+/*** Responsive Styles Smartphone Portrait ***/
+@media all and (max-width: 479px) {
+
+}
